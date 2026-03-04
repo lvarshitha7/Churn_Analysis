@@ -6417,3 +6417,4 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 78682-KER,Female,65,Yes,Kerala,14,25,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.95,2869.85,0,0,599.64,3469.49,Churned,Dissatisfaction,Product dissatisfaction
 17816-ODI,Male,23,No,Odisha,2,10,,Yes,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,70.15,4480.7,0,0,2107.52,6588.22,Stayed,,
 34476-TAM,Male,73,No,Tamil Nadu,13,21,,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,96.85,1235.55,0,0,346.84,1582.39,Stayed,,
+
